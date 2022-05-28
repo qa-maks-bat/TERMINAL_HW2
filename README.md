@@ -1,6 +1,6 @@
-# TERMINAL_HW2
+QA Course by Vadim Ksendzov
 
-Terminal homework 2
+Terminal (GitBash) homework 2
 
 # Termial. HW_2
 
