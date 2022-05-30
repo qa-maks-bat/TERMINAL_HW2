@@ -1,17 +1,17 @@
-     QA Course by Vadim Ksendzov
+QA Course by Vadim Ksendzov
 	 
-	 Group_30_QA
+Group_30_QA
 
-     TERMINAL homework 2
+TERMINAL homework 2
 	 
-	 Invironment: Windows 10, Notepad++
+Invironment: Windows 10, Notepad++
 
 
-     Telegram: @maks_tbat 
+Telegram: @maks_tbat 
 
-     Name: Maksim Batrakou
+Name: Maksim Batrakou
 	 
-	 Location: Minsk, Belarus
+Location: Minsk, Belarus
 
 
 #!/bin/bash
@@ -38,7 +38,7 @@
 	$ cat > tf_2.txt	
 	 the first 1	
 	 the second 2
-	 the third 3 	# Press "Enter" and then press "Ctrl"+"C"
+	 the third 3	# Press "Enter" and then press "Ctrl"+"C"
 	 
 7. Зайти в папку inner_dir_1:
 	$ cd inner_dir_1
@@ -52,11 +52,11 @@
 	 a mother
 	 a father
 	 a brother
-	 a sister 		# Press "Enter" and then press "Ctrl"+"C"
+	 a sister		# Press "Enter" and then press "Ctrl"+"C"
 	 
 9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”:
 	$ cat >> tf_3.txt
-	 the second 2	# Press "Enter" and then press "Ctrl"+"C"
+	 the second 2		# Press "Enter" and then press "Ctrl"+"C"
 	 
 10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”:
 	$ cat >> tf_3.txt
@@ -68,11 +68,11 @@
 	 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”:
 	$ cat >> tf_3.txt
-	 the seCoNd 2	# Press "Enter" and then press "Ctrl"+"C"
+	 the seCoNd 2		# Press "Enter" and then press "Ctrl"+"C"
 
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”:
 	$ cat >> ../tf_2.txt
-	 the seConD 2	# Press "Enter" and then press "Ctrl"+"C"
+	 the seConD 2		# Press "Enter" and then press "Ctrl"+"C"
 	 
 14. Сделать текстовый файл tf_4.txt, в котором будет 15 строк:
 	$ cat > tf_4.txt
