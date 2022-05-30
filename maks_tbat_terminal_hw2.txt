@@ -1,4 +1,4 @@
-QA Course by Vadim Ksendzov
+QA Course by Vadim Ksendzov 
 	 
 Group_30_QA
 
