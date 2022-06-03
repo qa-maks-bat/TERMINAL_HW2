@@ -1,2 +1,2 @@
 A command in one line.
-Create a folder and a text file with content.
+Create a folder and a text file with a content.
